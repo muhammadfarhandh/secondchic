@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9af81e21.css",
+    "main.js": "/static/js/main.08a99041.js",
+    "static/media/homeBanner.png": "/static/media/homeBanner.7db424e4427ba256ffad.png",
+    "static/media/red-bg.png": "/static/media/red-bg.93dbd5af837acae071b4.png",
+    "static/media/aboutBanner.png": "/static/media/aboutBanner.4cd1abb83f632160d801.png",
+    "static/media/trendingBg.png": "/static/media/trendingBg.f20cf7854ea7c4e2c07a.png",
+    "static/media/popularCard.png": "/static/media/popularCard.c8fc48c50e6d02602a2a.png",
+    "static/media/productCardBg.png": "/static/media/productCardBg.38c07e399b06177188ae.png",
+    "static/media/productItemBG.png": "/static/media/productItemBG.4b64831bcc7dae37c8cc.png",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Gilroy-Regular.ttf": "/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "static/media/Gilroy-Semibold.ttf": "/static/media/Gilroy-Semibold.41fa36c3c8e966b35423.ttf",
+    "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.901a60fc2835c74fba67.ttf",
+    "static/media/Gilroy-Black.ttf": "/static/media/Gilroy-Black.4628979a4dac24916ba7.ttf",
+    "index.html": "/index.html",
+    "main.9af81e21.css.map": "/static/css/main.9af81e21.css.map",
+    "main.08a99041.js.map": "/static/js/main.08a99041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af81e21.css",
+    "static/js/main.08a99041.js"
+  ]
+}
