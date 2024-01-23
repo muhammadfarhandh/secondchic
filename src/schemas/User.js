@@ -27,6 +27,11 @@ const UserSchema = new Schema({
       unique: true
     },
     dob: {type: Date},
+    address: {type: String},
+    country: {type: String},
+    state: {type: String},
+    city: {type: String},
+    zipcode: {type: String},
     resetPasswordToken: {type: String},
     resetPasswordExpire: {type: Date},
     confirmEmailToken: {type: String},
